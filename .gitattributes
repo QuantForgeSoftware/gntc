@@ -1,0 +1,5 @@
+* text=auto eol=lf
+data/source/75-1Ti-morphgnt.txt -text
+data/source/README.md -whitespace
+LICENSES/** -whitespace
+schemas/tei_all-4.12.0.rng -whitespace

@@ -1,0 +1,42 @@
+{
+  "tokenizerPackage": "tiktoken 0.12.0",
+  "sourceSha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97",
+  "equalInformationPayloads": [
+    {
+      "format": "GNTC/1",
+      "utf8Bytes": 159173,
+      "characters": 119908,
+      "o200k_base": 60607,
+      "cl100k_base": 79580
+    },
+    {
+      "format": "JSON (indented)",
+      "utf8Bytes": 619290,
+      "characters": 580025,
+      "o200k_base": 206125,
+      "cl100k_base": 226384
+    },
+    {
+      "format": "JSON (minified)",
+      "utf8Bytes": 399167,
+      "characters": 359902,
+      "o200k_base": 130415,
+      "cl100k_base": 149776
+    },
+    {
+      "format": "TEI profile",
+      "utf8Bytes": 1085907,
+      "characters": 1056881,
+      "o200k_base": 373583,
+      "cl100k_base": 387772
+    }
+  ],
+  "separateReducedInformationCondition": {
+    "format": "4:7-8 prompt, including legend and context closure; marker morphology only",
+    "utf8Bytes": 5303,
+    "characters": 4887,
+    "o200k_base": 1598,
+    "cl100k_base": 1800
+  },
+  "scope": "Counts of serialized payloads, not AI accuracy or a model-independent cost estimate. The full graph representations retain the same data; the separate prompt uses a selected passage and reduced morphology."
+}

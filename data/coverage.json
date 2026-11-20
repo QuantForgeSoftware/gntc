@@ -1,0 +1,16 @@
+{
+  "sourceRevision": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "sourceSha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97",
+  "words": 1591,
+  "verses": 113,
+  "chapters": 6,
+  "units": 393,
+  "candidates": 288,
+  "connections": 211,
+  "proposed": 211,
+  "reviewed": 0,
+  "effects": 9,
+  "alternatives": 2,
+  "candidatePolicy": "all-C-D-X-plus-dia-touto-and-ektos-ei-me-v1",
+  "analysisCoverage": "partial"
+}

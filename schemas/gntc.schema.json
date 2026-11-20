@@ -1,0 +1,441 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/QuantForgeSoftware/gntc/main/schemas/gntc.schema.json",
+  "title": "GNTC/1 annotation graph",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format",
+    "metadata",
+    "words",
+    "annotations"
+  ],
+  "properties": {
+    "format": {
+      "const": "GNTC/1"
+    },
+    "metadata": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Za-z0-9_.-]+$"
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "words": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/word"
+      }
+    },
+    "annotations": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/annotation"
+      }
+    }
+  },
+  "$defs": {
+    "word": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "verse",
+        "position",
+        "sourceBcv",
+        "surface",
+        "lemma",
+        "pos",
+        "parsing",
+        "form",
+        "normalized"
+      ],
+      "properties": {
+        "id": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "verse": {
+          "type": "string",
+          "minLength": 1
+        },
+        "position": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sourceBcv": {
+          "type": "string",
+          "pattern": "^[0-9]{6}$"
+        },
+        "surface": {
+          "type": "string",
+          "minLength": 1
+        },
+        "lemma": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "pos": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "parsing": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "form": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "normalized": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        }
+      }
+    },
+    "annotation": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "U"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "enum": [
+                    "word",
+                    "phrase",
+                    "clause",
+                    "complex",
+                    "verse",
+                    "discourse"
+                  ]
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "K"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "Q"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "C"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "enum": [
+                    "associate",
+                    "develop",
+                    "support",
+                    "infer",
+                    "counter",
+                    "resume",
+                    "frame",
+                    "introduce",
+                    "compare",
+                    "restrict",
+                    "?",
+                    "-"
+                  ]
+                },
+                {
+                  "enum": [
+                    "addition",
+                    "contrast",
+                    "ground",
+                    "cause",
+                    "result",
+                    "condition",
+                    "purpose",
+                    "temporal",
+                    "elaboration",
+                    "comparison",
+                    "content",
+                    "exception",
+                    "alternative",
+                    "correlation",
+                    "concession",
+                    "?"
+                  ]
+                },
+                {
+                  "enum": [
+                    "content",
+                    "epistemic",
+                    "act",
+                    "discourse",
+                    "syntax",
+                    "?"
+                  ]
+                }
+              ],
+              "items": false,
+              "minItems": 6,
+              "maxItems": 6
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "I"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "type": "string",
+                  "minLength": 1
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "id",
+            "args",
+            "attributes"
+          ],
+          "properties": {
+            "kind": {
+              "const": "A"
+            },
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "args": {
+              "type": "array",
+              "prefixItems": [
+                {
+                  "enum": [
+                    "exclusive",
+                    "inclusive"
+                  ]
+                },
+                {
+                  "type": "string",
+                  "minLength": 1
+                }
+              ],
+              "items": false,
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "attributes": {
+              "type": "object",
+              "propertyNames": {
+                "pattern": "^[A-Za-z0-9_.-]+$"
+              },
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "format": "GNTC/1",
+  "metadata": {
+    "agent.codex": "AI-assisted research draft, 2026-11-20; no specialist review",
+    "analysisCoverage": "partial",
+    "annotationLicense": "CC-BY-SA-3.0",
+    "book": "1Ti",
+    "candidateCoverage": "complete-for-policy",
+    "candidatePolicy": "all-C-D-X-plus-dia-touto-and-ektos-ei-me-v1",
+    "default.by": "codex",
+    "default.status": "proposed",
+    "extraction": "marker-seeded-dependency-closure-v1",
+    "morphologyCoverage": "full",
+    "morphologyLicense": "CC-BY-SA-3.0",
+    "profile": "gntc-connectives-1",
+    "requestedVerses": "1Ti.4.7,1Ti.4.8",
+    "source.levinsohn-1tim": "https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/discourse/1timcomments.pdf",
+    "sourcePath": "75-1Ti-morphgnt.txt",
+    "sourceRepository": "https://github.com/QuantForgeSoftware/sblgnt",
+    "sourceRevision": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+    "sourceSha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97",
+    "textCoverage": "excerpt",
+    "textLicense": "CC-BY-4.0",
+    "title": "1 Timothy — SBLGNT / MorphGNT, GNTC research draft",
+    "tokenization": "morphgnt-row-v1"
+  },
+  "words": [
+    {
+      "id": 762,
+      "verse": "1Ti.4.6",
+      "position": 1,
+      "sourceBcv": "150406",
+      "surface": "Ταῦτα",
+      "lemma": "οὗτος",
+      "pos": "RD",
+      "parsing": "----APN-",
+      "form": "Ταῦτα",
+      "normalized": "ταῦτα"
+    },
+    {
+      "id": 763,
+      "verse": "1Ti.4.6",
+      "position": 2,
+      "sourceBcv": "150406",
+      "surface": "ὑποτιθέμενος",
+      "lemma": "ὑποτίθημι",
+      "pos": "V-",
+      "parsing": "-PMPNSM-",
+      "form": "ὑποτιθέμενος",
+      "normalized": "ὑποτιθέμενος"
+    },
+    {
+      "id": 764,
+      "verse": "1Ti.4.6",
+      "position": 3,
+      "sourceBcv": "150406",
+      "surface": "τοῖς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----DPM-",
+      "form": "τοῖς",
+      "normalized": "τοῖς"
+    },
+    {
+      "id": 765,
+      "verse": "1Ti.4.6",
+      "position": 4,
+      "sourceBcv": "150406",
+      "surface": "ἀδελφοῖς",
+      "lemma": "ἀδελφός",
+      "pos": "N-",
+      "parsing": "----DPM-",
+      "form": "ἀδελφοῖς",
+      "normalized": "ἀδελφοῖς"
+    },
+    {
+      "id": 766,
+      "verse": "1Ti.4.6",
+      "position": 5,
+      "sourceBcv": "150406",
+      "surface": "καλὸς",
+      "lemma": "καλός",
+      "pos": "A-",
+      "parsing": "----NSM-",
+      "form": "καλὸς",
+      "normalized": "καλός"
+    },
+    {
+      "id": 767,
+      "verse": "1Ti.4.6",
+      "position": 6,
+      "sourceBcv": "150406",
+      "surface": "ἔσῃ",
+      "lemma": "εἰμί",
+      "pos": "V-",
+      "parsing": "2FMI-S--",
+      "form": "ἔσῃ",
+      "normalized": "ἔσῃ"
+    },
+    {
+      "id": 768,
+      "verse": "1Ti.4.6",
+      "position": 7,
+      "sourceBcv": "150406",
+      "surface": "διάκονος",
+      "lemma": "διάκονος",
+      "pos": "N-",
+      "parsing": "----NSM-",
+      "form": "διάκονος",
+      "normalized": "διάκονος"
+    },
+    {
+      "id": 769,
+      "verse": "1Ti.4.6",
+      "position": 8,
+      "sourceBcv": "150406",
+      "surface": "⸂Χριστοῦ",
+      "lemma": "Χριστός",
+      "pos": "N-",
+      "parsing": "----GSM-",
+      "form": "Χριστοῦ",
+      "normalized": "Χριστοῦ"
+    },
+    {
+      "id": 770,
+      "verse": "1Ti.4.6",
+      "position": 9,
+      "sourceBcv": "150406",
+      "surface": "Ἰησοῦ⸃,",
+      "lemma": "Ἰησοῦς",
+      "pos": "N-",
+      "parsing": "----GSM-",
+      "form": "Ἰησοῦ",
+      "normalized": "Ἰησοῦ"
+    },
+    {
+      "id": 771,
+      "verse": "1Ti.4.6",
+      "position": 10,
+      "sourceBcv": "150406",
+      "surface": "ἐντρεφόμενος",
+      "lemma": "ἐντρέφομαι",
+      "pos": "V-",
+      "parsing": "-PPPNSM-",
+      "form": "ἐντρεφόμενος",
+      "normalized": "ἐντρεφόμενος"
+    },
+    {
+      "id": 772,
+      "verse": "1Ti.4.6",
+      "position": 11,
+      "sourceBcv": "150406",
+      "surface": "τοῖς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----DPM-",
+      "form": "τοῖς",
+      "normalized": "τοῖς"
+    },
+    {
+      "id": 773,
+      "verse": "1Ti.4.6",
+      "position": 12,
+      "sourceBcv": "150406",
+      "surface": "λόγοις",
+      "lemma": "λόγος",
+      "pos": "N-",
+      "parsing": "----DPM-",
+      "form": "λόγοις",
+      "normalized": "λόγοις"
+    },
+    {
+      "id": 774,
+      "verse": "1Ti.4.6",
+      "position": 13,
+      "sourceBcv": "150406",
+      "surface": "τῆς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----GSF-",
+      "form": "τῆς",
+      "normalized": "τῆς"
+    },
+    {
+      "id": 775,
+      "verse": "1Ti.4.6",
+      "position": 14,
+      "sourceBcv": "150406",
+      "surface": "πίστεως",
+      "lemma": "πίστις",
+      "pos": "N-",
+      "parsing": "----GSF-",
+      "form": "πίστεως",
+      "normalized": "πίστεως"
+    },
+    {
+      "id": 776,
+      "verse": "1Ti.4.6",
+      "position": 15,
+      "sourceBcv": "150406",
+      "surface": "καὶ",
+      "lemma": "καί",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "καὶ",
+      "normalized": "καί"
+    },
+    {
+      "id": 777,
+      "verse": "1Ti.4.6",
+      "position": 16,
+      "sourceBcv": "150406",
+      "surface": "τῆς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----GSF-",
+      "form": "τῆς",
+      "normalized": "τῆς"
+    },
+    {
+      "id": 778,
+      "verse": "1Ti.4.6",
+      "position": 17,
+      "sourceBcv": "150406",
+      "surface": "καλῆς",
+      "lemma": "καλός",
+      "pos": "A-",
+      "parsing": "----GSF-",
+      "form": "καλῆς",
+      "normalized": "καλῆς"
+    },
+    {
+      "id": 779,
+      "verse": "1Ti.4.6",
+      "position": 18,
+      "sourceBcv": "150406",
+      "surface": "διδασκαλίας",
+      "lemma": "διδασκαλία",
+      "pos": "N-",
+      "parsing": "----GSF-",
+      "form": "διδασκαλίας",
+      "normalized": "διδασκαλίας"
+    },
+    {
+      "id": 780,
+      "verse": "1Ti.4.6",
+      "position": 19,
+      "sourceBcv": "150406",
+      "surface": "ᾗ",
+      "lemma": "ὅς",
+      "pos": "RR",
+      "parsing": "----DSF-",
+      "form": "ᾗ",
+      "normalized": "ᾗ"
+    },
+    {
+      "id": 781,
+      "verse": "1Ti.4.6",
+      "position": 20,
+      "sourceBcv": "150406",
+      "surface": "παρηκολούθηκας,",
+      "lemma": "παρακολουθέω",
+      "pos": "V-",
+      "parsing": "2XAI-S--",
+      "form": "παρηκολούθηκας",
+      "normalized": "παρηκολούθηκας"
+    },
+    {
+      "id": 782,
+      "verse": "1Ti.4.7",
+      "position": 1,
+      "sourceBcv": "150407",
+      "surface": "τοὺς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----APM-",
+      "form": "τοὺς",
+      "normalized": "τούς"
+    },
+    {
+      "id": 783,
+      "verse": "1Ti.4.7",
+      "position": 2,
+      "sourceBcv": "150407",
+      "surface": "δὲ",
+      "lemma": "δέ",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "δὲ",
+      "normalized": "δέ"
+    },
+    {
+      "id": 784,
+      "verse": "1Ti.4.7",
+      "position": 3,
+      "sourceBcv": "150407",
+      "surface": "βεβήλους",
+      "lemma": "βέβηλος",
+      "pos": "A-",
+      "parsing": "----APM-",
+      "form": "βεβήλους",
+      "normalized": "βεβήλους"
+    },
+    {
+      "id": 785,
+      "verse": "1Ti.4.7",
+      "position": 4,
+      "sourceBcv": "150407",
+      "surface": "καὶ",
+      "lemma": "καί",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "καὶ",
+      "normalized": "καί"
+    },
+    {
+      "id": 786,
+      "verse": "1Ti.4.7",
+      "position": 5,
+      "sourceBcv": "150407",
+      "surface": "γραώδεις",
+      "lemma": "γραώδης",
+      "pos": "A-",
+      "parsing": "----APM-",
+      "form": "γραώδεις",
+      "normalized": "γραώδεις"
+    },
+    {
+      "id": 787,
+      "verse": "1Ti.4.7",
+      "position": 6,
+      "sourceBcv": "150407",
+      "surface": "μύθους",
+      "lemma": "μῦθος",
+      "pos": "N-",
+      "parsing": "----APM-",
+      "form": "μύθους",
+      "normalized": "μύθους"
+    },
+    {
+      "id": 788,
+      "verse": "1Ti.4.7",
+      "position": 7,
+      "sourceBcv": "150407",
+      "surface": "παραιτοῦ.",
+      "lemma": "παραιτέομαι",
+      "pos": "V-",
+      "parsing": "2PMD-S--",
+      "form": "παραιτοῦ",
+      "normalized": "παραιτοῦ"
+    },
+    {
+      "id": 789,
+      "verse": "1Ti.4.7",
+      "position": 8,
+      "sourceBcv": "150407",
+      "surface": "γύμναζε",
+      "lemma": "γυμνάζω",
+      "pos": "V-",
+      "parsing": "2PAD-S--",
+      "form": "γύμναζε",
+      "normalized": "γύμναζε"
+    },
+    {
+      "id": 790,
+      "verse": "1Ti.4.7",
+      "position": 9,
+      "sourceBcv": "150407",
+      "surface": "δὲ",
+      "lemma": "δέ",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "δὲ",
+      "normalized": "δέ"
+    },
+    {
+      "id": 791,
+      "verse": "1Ti.4.7",
+      "position": 10,
+      "sourceBcv": "150407",
+      "surface": "σεαυτὸν",
+      "lemma": "σεαυτοῦ",
+      "pos": "RP",
+      "parsing": "----ASM-",
+      "form": "σεαυτὸν",
+      "normalized": "σεαυτόν"
+    },
+    {
+      "id": 792,
+      "verse": "1Ti.4.7",
+      "position": 11,
+      "sourceBcv": "150407",
+      "surface": "πρὸς",
+      "lemma": "πρός",
+      "pos": "P-",
+      "parsing": "--------",
+      "form": "πρὸς",
+      "normalized": "πρός"
+    },
+    {
+      "id": 793,
+      "verse": "1Ti.4.7",
+      "position": 12,
+      "sourceBcv": "150407",
+      "surface": "εὐσέβειαν·",
+      "lemma": "εὐσέβεια",
+      "pos": "N-",
+      "parsing": "----ASF-",
+      "form": "εὐσέβειαν",
+      "normalized": "εὐσέβειαν"
+    },
+    {
+      "id": 794,
+      "verse": "1Ti.4.8",
+      "position": 1,
+      "sourceBcv": "150408",
+      "surface": "ἡ",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----NSF-",
+      "form": "ἡ",
+      "normalized": "ἡ"
+    },
+    {
+      "id": 795,
+      "verse": "1Ti.4.8",
+      "position": 2,
+      "sourceBcv": "150408",
+      "surface": "γὰρ",
+      "lemma": "γάρ",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "γὰρ",
+      "normalized": "γάρ"
+    },
+    {
+      "id": 796,
+      "verse": "1Ti.4.8",
+      "position": 3,
+      "sourceBcv": "150408",
+      "surface": "σωματικὴ",
+      "lemma": "σωματικός",
+      "pos": "A-",
+      "parsing": "----NSF-",
+      "form": "σωματικὴ",
+      "normalized": "σωματική"
+    },
+    {
+      "id": 797,
+      "verse": "1Ti.4.8",
+      "position": 4,
+      "sourceBcv": "150408",
+      "surface": "γυμνασία",
+      "lemma": "γυμνασία",
+      "pos": "N-",
+      "parsing": "----NSF-",
+      "form": "γυμνασία",
+      "normalized": "γυμνασία"
+    },
+    {
+      "id": 798,
+      "verse": "1Ti.4.8",
+      "position": 5,
+      "sourceBcv": "150408",
+      "surface": "πρὸς",
+      "lemma": "πρός",
+      "pos": "P-",
+      "parsing": "--------",
+      "form": "πρὸς",
+      "normalized": "πρός"
+    },
+    {
+      "id": 799,
+      "verse": "1Ti.4.8",
+      "position": 6,
+      "sourceBcv": "150408",
+      "surface": "ὀλίγον",
+      "lemma": "ὀλίγος",
+      "pos": "A-",
+      "parsing": "----ASM-",
+      "form": "ὀλίγον",
+      "normalized": "ὀλίγον"
+    },
+    {
+      "id": 800,
+      "verse": "1Ti.4.8",
+      "position": 7,
+      "sourceBcv": "150408",
+      "surface": "ἐστὶν",
+      "lemma": "εἰμί",
+      "pos": "V-",
+      "parsing": "3PAI-S--",
+      "form": "ἐστὶν",
+      "normalized": "ἐστί(ν)"
+    },
+    {
+      "id": 801,
+      "verse": "1Ti.4.8",
+      "position": 8,
+      "sourceBcv": "150408",
+      "surface": "ὠφέλιμος,",
+      "lemma": "ὠφέλιμος",
+      "pos": "A-",
+      "parsing": "----NSF-",
+      "form": "ὠφέλιμος",
+      "normalized": "ὠφέλιμος"
+    },
+    {
+      "id": 802,
+      "verse": "1Ti.4.8",
+      "position": 9,
+      "sourceBcv": "150408",
+      "surface": "ἡ",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----NSF-",
+      "form": "ἡ",
+      "normalized": "ἡ"
+    },
+    {
+      "id": 803,
+      "verse": "1Ti.4.8",
+      "position": 10,
+      "sourceBcv": "150408",
+      "surface": "δὲ",
+      "lemma": "δέ",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "δὲ",
+      "normalized": "δέ"
+    },
+    {
+      "id": 804,
+      "verse": "1Ti.4.8",
+      "position": 11,
+      "sourceBcv": "150408",
+      "surface": "εὐσέβεια",
+      "lemma": "εὐσέβεια",
+      "pos": "N-",
+      "parsing": "----NSF-",
+      "form": "εὐσέβεια",
+      "normalized": "εὐσέβεια"
+    },
+    {
+      "id": 805,
+      "verse": "1Ti.4.8",
+      "position": 12,
+      "sourceBcv": "150408",
+      "surface": "πρὸς",
+      "lemma": "πρός",
+      "pos": "P-",
+      "parsing": "--------",
+      "form": "πρὸς",
+      "normalized": "πρός"
+    },
+    {
+      "id": 806,
+      "verse": "1Ti.4.8",
+      "position": 13,
+      "sourceBcv": "150408",
+      "surface": "πάντα",
+      "lemma": "πᾶς",
+      "pos": "A-",
+      "parsing": "----APN-",
+      "form": "πάντα",
+      "normalized": "πάντα"
+    },
+    {
+      "id": 807,
+      "verse": "1Ti.4.8",
+      "position": 14,
+      "sourceBcv": "150408",
+      "surface": "ὠφέλιμός",
+      "lemma": "ὠφέλιμος",
+      "pos": "A-",
+      "parsing": "----NSF-",
+      "form": "ὠφέλιμός",
+      "normalized": "ὠφέλιμος"
+    },
+    {
+      "id": 808,
+      "verse": "1Ti.4.8",
+      "position": 15,
+      "sourceBcv": "150408",
+      "surface": "ἐστιν,",
+      "lemma": "εἰμί",
+      "pos": "V-",
+      "parsing": "3PAI-S--",
+      "form": "ἐστιν",
+      "normalized": "ἐστί(ν)"
+    },
+    {
+      "id": 809,
+      "verse": "1Ti.4.8",
+      "position": 16,
+      "sourceBcv": "150408",
+      "surface": "ἐπαγγελίαν",
+      "lemma": "ἐπαγγελία",
+      "pos": "N-",
+      "parsing": "----ASF-",
+      "form": "ἐπαγγελίαν",
+      "normalized": "ἐπαγγελίαν"
+    },
+    {
+      "id": 810,
+      "verse": "1Ti.4.8",
+      "position": 17,
+      "sourceBcv": "150408",
+      "surface": "ἔχουσα",
+      "lemma": "ἔχω",
+      "pos": "V-",
+      "parsing": "-PAPNSF-",
+      "form": "ἔχουσα",
+      "normalized": "ἔχουσα"
+    },
+    {
+      "id": 811,
+      "verse": "1Ti.4.8",
+      "position": 18,
+      "sourceBcv": "150408",
+      "surface": "ζωῆς",
+      "lemma": "ζωή",
+      "pos": "N-",
+      "parsing": "----GSF-",
+      "form": "ζωῆς",
+      "normalized": "ζωῆς"
+    },
+    {
+      "id": 812,
+      "verse": "1Ti.4.8",
+      "position": 19,
+      "sourceBcv": "150408",
+      "surface": "τῆς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----GSF-",
+      "form": "τῆς",
+      "normalized": "τῆς"
+    },
+    {
+      "id": 813,
+      "verse": "1Ti.4.8",
+      "position": 20,
+      "sourceBcv": "150408",
+      "surface": "νῦν",
+      "lemma": "νῦν",
+      "pos": "D-",
+      "parsing": "--------",
+      "form": "νῦν",
+      "normalized": "νῦν"
+    },
+    {
+      "id": 814,
+      "verse": "1Ti.4.8",
+      "position": 21,
+      "sourceBcv": "150408",
+      "surface": "καὶ",
+      "lemma": "καί",
+      "pos": "C-",
+      "parsing": "--------",
+      "form": "καὶ",
+      "normalized": "καί"
+    },
+    {
+      "id": 815,
+      "verse": "1Ti.4.8",
+      "position": 22,
+      "sourceBcv": "150408",
+      "surface": "τῆς",
+      "lemma": "ὁ",
+      "pos": "RA",
+      "parsing": "----GSF-",
+      "form": "τῆς",
+      "normalized": "τῆς"
+    },
+    {
+      "id": 816,
+      "verse": "1Ti.4.8",
+      "position": 23,
+      "sourceBcv": "150408",
+      "surface": "μελλούσης.",
+      "lemma": "μέλλω",
+      "pos": "V-",
+      "parsing": "-PAPGSF-",
+      "form": "μελλούσης",
+      "normalized": "μελλούσης"
+    }
+  ],
+  "annotations": [
+    {
+      "kind": "U",
+      "id": "u762_781",
+      "args": [
+        "762-781",
+        "discourse"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u782_788",
+      "args": [
+        "782-788",
+        "clause"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u784",
+      "args": [
+        "784",
+        "word"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u786",
+      "args": [
+        "786",
+        "word"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u789_793",
+      "args": [
+        "789-793",
+        "clause"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u789_816",
+      "args": [
+        "789-816",
+        "discourse"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u794_801",
+      "args": [
+        "794-801",
+        "clause"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u794_816",
+      "args": [
+        "794-816",
+        "discourse"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u802_816",
+      "args": [
+        "802-816",
+        "complex"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u812_813",
+      "args": [
+        "812-813",
+        "phrase"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "U",
+      "id": "u815_816",
+      "args": [
+        "815-816",
+        "phrase"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "Q",
+      "id": "q783",
+      "args": [
+        "783",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q785",
+      "args": [
+        "785",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q790",
+      "args": [
+        "790",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q795",
+      "args": [
+        "795",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q803",
+      "args": [
+        "803",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q813",
+      "args": [
+        "813",
+        "source-pos:D-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "Q",
+      "id": "q814",
+      "args": [
+        "814",
+        "source-pos:C-"
+      ],
+      "attributes": {
+        "by": "candidate-scan-v1",
+        "status": "candidate"
+      }
+    },
+    {
+      "kind": "C",
+      "id": "c783",
+      "args": [
+        "783",
+        "u762_781",
+        "u782_788",
+        "develop",
+        "contrast",
+        "act"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "C",
+      "id": "c785",
+      "args": [
+        "785",
+        "u784",
+        "u786",
+        "associate",
+        "addition",
+        "content"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "C",
+      "id": "c790",
+      "args": [
+        "790",
+        "u782_788",
+        "u789_793",
+        "develop",
+        "contrast",
+        "act"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "C",
+      "id": "c795",
+      "args": [
+        "795",
+        "u789_793",
+        "u794_816",
+        "support",
+        "ground",
+        "act"
+      ],
+      "attributes": {
+        "note": "Gar scopes over both main clauses of verse 8, including the dependent participial material.",
+        "src": "levinsohn-1tim"
+      }
+    },
+    {
+      "kind": "C",
+      "id": "c803",
+      "args": [
+        "803",
+        "u794_801",
+        "u802_816",
+        "develop",
+        "contrast",
+        "content"
+      ],
+      "attributes": {
+        "note": "Development is distinguished from the contextual contrast in usefulness.",
+        "src": "levinsohn-1tim"
+      }
+    },
+    {
+      "kind": "C",
+      "id": "c814",
+      "args": [
+        "814",
+        "u812_813",
+        "u815_816",
+        "associate",
+        "addition",
+        "content"
+      ],
+      "attributes": {}
+    },
+    {
+      "kind": "I",
+      "id": "i795",
+      "args": [
+        "c795",
+        "The benefits of godliness described in both main clauses provide motivation for obeying the training exhortation."
+      ],
+      "attributes": {
+        "force": "defeasible"
+      }
+    },
+    {
+      "kind": "I",
+      "id": "i803",
+      "args": [
+        "c803",
+        "The comparison directs attention from limited bodily benefit to the wider benefit of godliness; contrast is contextual rather than a mandatory translation of de."
+      ],
+      "attributes": {
+        "force": "defeasible"
+      }
+    }
+  ]
+}

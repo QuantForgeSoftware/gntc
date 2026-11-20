@@ -1,0 +1,289 @@
+id	marker	references	surface	lemma	evidence	proposal_ids	review_status
+q10	10	1Ti.1.1.w10	καὶ	καί	source-pos:C-	c10	has-proposal
+q27	27	1Ti.1.2.w12	καὶ	καί	source-pos:C-	c27	has-proposal
+q33	33	1Ti.1.3.w1	Καθὼς	καθώς	source-pos:C-		unresolved
+q42	42	1Ti.1.3.w10	ἵνα	ἵνα	source-pos:C-	c42	has-proposal
+q45	45	1Ti.1.3.w13	μὴ	μή	source-pos:D-		unresolved
+q47	47	1Ti.1.4.w1	μηδὲ	μηδέ	source-pos:C-	c47	has-proposal
+q50	50	1Ti.1.4.w4	καὶ	καί	source-pos:C-	c50	has-proposal
+q56	56	1Ti.1.4.w10	μᾶλλον	μᾶλλον	source-pos:D-		unresolved
+q57	57	1Ti.1.4.w11	ἢ	ἤ	source-pos:C-	c57	has-proposal
+q64	64	1Ti.1.5.w2	δὲ	δέ	source-pos:C-	c64	has-proposal
+q73	73	1Ti.1.5.w11	καὶ	καί	source-pos:C-	c73	has-proposal
+q76	76	1Ti.1.5.w14	καὶ	καί	source-pos:C-	c76	has-proposal
+q88	88	1Ti.1.7.w4	μὴ	μή	source-pos:D-		unresolved
+q90	90	1Ti.1.7.w6	μήτε	μήτε	source-pos:C-	c90	has-proposal
+q93	93	1Ti.1.7.w9	μήτε	μήτε	source-pos:C-	c90	has-proposal
+q98	98	1Ti.1.8.w2	δὲ	δέ	source-pos:C-	c98	has-proposal
+q99	99	1Ti.1.8.w3	ὅτι	ὅτι	source-pos:C-	c99	has-proposal
+q103	103	1Ti.1.8.w7	ἐάν	ἐάν	source-pos:C-	c103	has-proposal
+q106	106	1Ti.1.8.w10	νομίμως	νομίμως	source-pos:D-		unresolved
+q110	110	1Ti.1.9.w3	ὅτι	ὅτι	source-pos:D-	c110	has-proposal
+q113	113	1Ti.1.9.w6	οὐ	οὐ	source-pos:D-		unresolved
+q116	116	1Ti.1.9.w9	δὲ	δέ	source-pos:C-	c116	has-proposal
+q117	117	1Ti.1.9.w10	καὶ	καί	source-pos:C-	c117	has-proposal
+q120	120	1Ti.1.9.w13	καὶ	καί	source-pos:C-	c120	has-proposal
+q123	123	1Ti.1.9.w16	καὶ	καί	source-pos:C-	c123	has-proposal
+q126	126	1Ti.1.9.w19	καὶ	καί	source-pos:C-	c126	has-proposal
+q134	134	1Ti.1.10.w6	καὶ	καί	source-pos:C-	c134	has-proposal
+q135	135	1Ti.1.10.w7	εἴ	εἰ	source-pos:C-	c135	has-proposal
+q163	163	1Ti.1.12.w11	ὅτι	ὅτι	source-pos:C-	c163	has-proposal
+q174	174	1Ti.1.13.w5	καὶ	καί	source-pos:C-	c174	has-proposal
+q176	176	1Ti.1.13.w7	καὶ	καί	source-pos:C-	c176	has-proposal
+q178	178	1Ti.1.13.w9	ἀλλὰ	ἀλλά	source-pos:C-	c178	has-proposal
+q180	180	1Ti.1.13.w11	ὅτι	ὅτι	source-pos:C-	c180	has-proposal
+q186	186	1Ti.1.14.w2	δὲ	δέ	source-pos:C-	c186	has-proposal
+q194	194	1Ti.1.14.w10	καὶ	καί	source-pos:C-	c194	has-proposal
+q203	203	1Ti.1.15.w4	καὶ	καί	source-pos:C-	c203	has-proposal
+q207	207	1Ti.1.15.w8	ὅτι	ὅτι	source-pos:D-	c207	has-proposal
+q220	220	1Ti.1.16.w1	ἀλλὰ	ἀλλά	source-pos:C-	c220	has-proposal
+qx221	221-222	1Ti.1.16.w2,1Ti.1.16.w3	διὰ τοῦτο	διά οὗτος	expression:διά οὗτος		unresolved
+q224	224	1Ti.1.16.w5	ἵνα	ἵνα	source-pos:C-	c224	has-proposal
+q245	245	1Ti.1.17.w2	δὲ	δέ	source-pos:C-	c245	has-proposal
+q254	254	1Ti.1.17.w11	καὶ	καί	source-pos:C-	c254	has-proposal
+q261	261	1Ti.1.17.w18	ἀμήν.	ἀμήν	source-pos:X-		unresolved
+q275	275	1Ti.1.18.w14	ἵνα	ἵνα	source-pos:D-	c275	has-proposal
+q284	284	1Ti.1.19.w3	καὶ	καί	source-pos:C-	c284	has-proposal
+q297	297	1Ti.1.20.w4	καὶ	καί	source-pos:C-	c297	has-proposal
+q303	303	1Ti.1.20.w10	ἵνα	ἵνα	source-pos:C-	c303	has-proposal
+q305	305	1Ti.1.20.w12	μὴ	μή	source-pos:D-		unresolved
+q308	308	1Ti.2.1.w2	οὖν	οὖν	source-pos:C-	c308a,c308b	has-proposal
+q321	321	1Ti.2.2.w3	καὶ	καί	source-pos:C-	c321	has-proposal
+q327	327	1Ti.2.2.w9	ἵνα	ἵνα	source-pos:C-	c327	has-proposal
+q329	329	1Ti.2.2.w11	καὶ	καί	source-pos:C-	c329	has-proposal
+q336	336	1Ti.2.2.w18	καὶ	καί	source-pos:C-	c336	has-proposal
+q340	340	1Ti.2.3.w3	καὶ	καί	source-pos:C-	c340	has-proposal
+q352	352	1Ti.2.4.w6	καὶ	καί	source-pos:C-	c352	has-proposal
+q358	358	1Ti.2.5.w2	γὰρ	γάρ	source-pos:C-	c358	has-proposal
+q361	361	1Ti.2.5.w5	καὶ	καί	source-pos:D-	c361	has-proposal
+q364	364	1Ti.2.5.w8	καὶ	καί	source-pos:C-	c364	has-proposal
+q384	384	1Ti.2.7.w6	καὶ	καί	source-pos:C-	c384	has-proposal
+q388	388	1Ti.2.7.w10	οὐ	οὐ	source-pos:D-		unresolved
+q394	394	1Ti.2.7.w16	καὶ	καί	source-pos:C-	c394	has-proposal
+q397	397	1Ti.2.8.w2	οὖν	οὖν	source-pos:C-	c397	has-proposal
+q409	409	1Ti.2.8.w14	καὶ	καί	source-pos:C-	c409	has-proposal
+q411	411	1Ti.2.9.w1	ὡσαύτως	ὡσαύτως	source-pos:D-	c411	has-proposal
+q412	412	1Ti.2.9.w2	⸀καὶ	καί	source-pos:D-	c411	has-proposal
+q419	419	1Ti.2.9.w9	καὶ	καί	source-pos:C-	c419	has-proposal
+q423	423	1Ti.2.9.w13	μὴ	μή	source-pos:D-		unresolved
+q426	426	1Ti.2.9.w16	⸀καὶ	καί	source-pos:C-	c426	has-proposal
+q428	428	1Ti.2.9.w18	ἢ	ἤ	source-pos:C-	c428	has-proposal
+q430	430	1Ti.2.9.w20	ἢ	ἤ	source-pos:C-	c430	has-proposal
+q433	433	1Ti.2.10.w1	ἀλλ’	ἀλλά	source-pos:C-	c433	has-proposal
+q450	450	1Ti.2.12.w2	δὲ	δέ	source-pos:C-	c450	has-proposal
+q452	452	1Ti.2.12.w4	οὐκ	οὐ	source-pos:D-		unresolved
+q454	454	1Ti.2.12.w6	οὐδὲ	οὐδέ	source-pos:C-	c454	has-proposal
+q457	457	1Ti.2.12.w9	ἀλλ’	ἀλλά	source-pos:C-	c457	has-proposal
+q462	462	1Ti.2.13.w2	γὰρ	γάρ	source-pos:C-	c462	has-proposal
+q465	465	1Ti.2.13.w5	εἶτα	εἶτα	source-pos:D-	c465	has-proposal
+q467	467	1Ti.2.14.w1	καὶ	καί	source-pos:C-	c467	has-proposal
+q469	469	1Ti.2.14.w3	οὐκ	οὐ	source-pos:D-		unresolved
+q472	472	1Ti.2.14.w6	δὲ	δέ	source-pos:C-	c472	has-proposal
+q479	479	1Ti.2.15.w2	δὲ	δέ	source-pos:C-	c479	has-proposal
+q483	483	1Ti.2.15.w6	ἐὰν	ἐάν	source-pos:C-	c483	has-proposal
+q487	487	1Ti.2.15.w10	καὶ	καί	source-pos:C-	c487	has-proposal
+q489	489	1Ti.2.15.w12	καὶ	καί	source-pos:C-	c489	has-proposal
+q496	496	1Ti.3.1.w4	εἴ	εἰ	source-pos:C-	c496	has-proposal
+q504	504	1Ti.3.2.w2	οὖν	οὖν	source-pos:C-	c504	has-proposal
+q517	517	1Ti.3.3.w1	μὴ	μή	source-pos:D-		unresolved
+q519	519	1Ti.3.3.w3	μὴ	μή	source-pos:D-		unresolved
+q521	521	1Ti.3.3.w5	ἀλλὰ	ἀλλά	source-pos:C-	c521	has-proposal
+q528	528	1Ti.3.4.w4	καλῶς	καλῶς	source-pos:D-		unresolved
+q537	537	1Ti.3.5.w1	(εἰ	εἰ	source-pos:C-	c537	has-proposal
+q538	538	1Ti.3.5.w2	δέ	δέ	source-pos:C-	c538	has-proposal
+q544	544	1Ti.3.5.w8	οὐκ	οὐ	source-pos:D-		unresolved
+q546	546	1Ti.3.5.w10	πῶς	πῶς	source-pos:D-		unresolved
+q550	550	1Ti.3.6.w1	μὴ	μή	source-pos:D-		unresolved
+q552	552	1Ti.3.6.w3	ἵνα	ἵνα	source-pos:C-	c552	has-proposal
+q553	553	1Ti.3.6.w4	μὴ	μή	source-pos:D-		unresolved
+q561	561	1Ti.3.7.w2	⸀δὲ	δέ	source-pos:C-	c561	has-proposal
+q562	562	1Ti.3.7.w3	καὶ	καί	source-pos:D-		unresolved
+q568	568	1Ti.3.7.w9	ἔξωθεν,	ἔξωθεν	source-pos:D-		unresolved
+q569	569	1Ti.3.7.w10	ἵνα	ἵνα	source-pos:C-	c569	has-proposal
+q570	570	1Ti.3.7.w11	μὴ	μή	source-pos:D-		unresolved
+q574	574	1Ti.3.7.w15	καὶ	καί	source-pos:C-	c574	has-proposal
+q579	579	1Ti.3.8.w2	ὡσαύτως	ὡσαύτως	source-pos:D-	c579	has-proposal
+q581	581	1Ti.3.8.w4	μὴ	μή	source-pos:D-		unresolved
+q583	583	1Ti.3.8.w6	μὴ	μή	source-pos:D-		unresolved
+q587	587	1Ti.3.8.w10	μὴ	μή	source-pos:D-		unresolved
+q597	597	1Ti.3.10.w1	καὶ	καί	source-pos:D-		unresolved
+q599	599	1Ti.3.10.w3	δὲ	δέ	source-pos:C-	c599	has-proposal
+q602	602	1Ti.3.10.w6	εἶτα	εἶτα	source-pos:D-	c602	has-proposal
+q607	607	1Ti.3.11.w2	ὡσαύτως	ὡσαύτως	source-pos:D-	c607	has-proposal
+q609	609	1Ti.3.11.w4	μὴ	μή	source-pos:D-		unresolved
+q621	621	1Ti.3.12.w7	καλῶς	καλῶς	source-pos:D-		unresolved
+q623	623	1Ti.3.12.w9	καὶ	καί	source-pos:C-	c623	has-proposal
+q628	628	1Ti.3.13.w2	γὰρ	γάρ	source-pos:C-	c628	has-proposal
+q629	629	1Ti.3.13.w3	καλῶς	καλῶς	source-pos:D-		unresolved
+q635	635	1Ti.3.13.w9	καὶ	καί	source-pos:C-	c635	has-proposal
+q653	653	1Ti.3.15.w1	ἐὰν	ἐάν	source-pos:C-	c653	has-proposal
+q654	654	1Ti.3.15.w2	δὲ	δέ	source-pos:C-	c654	has-proposal
+q656	656	1Ti.3.15.w4	ἵνα	ἵνα	source-pos:C-	c656	has-proposal
+q658	658	1Ti.3.15.w6	πῶς	πῶς	source-pos:D-		unresolved
+q670	670	1Ti.3.15.w18	καὶ	καί	source-pos:C-	c670	has-proposal
+q674	674	1Ti.3.16.w1	καὶ	καί	source-pos:C-	c674	has-proposal
+q675	675	1Ti.3.16.w2	ὁμολογουμένως	ὁμολογουμένως	source-pos:D-		unresolved
+q701	701	1Ti.4.1.w2	δὲ	δέ	source-pos:C-	c701	has-proposal
+q703	703	1Ti.4.1.w4	ῥητῶς	ῥητῶς	source-pos:D-		unresolved
+q705	705	1Ti.4.1.w6	ὅτι	ὅτι	source-pos:C-	c705	has-proposal
+q716	716	1Ti.4.1.w17	καὶ	καί	source-pos:C-	c716	has-proposal
+q740	740	1Ti.4.3.w15	καὶ	καί	source-pos:C-	c740	has-proposal
+q744	744	1Ti.4.4.w1	ὅτι	ὅτι	source-pos:C-	c744	has-proposal
+q749	749	1Ti.4.4.w6	καὶ	καί	source-pos:C-	c749	has-proposal
+q756	756	1Ti.4.5.w2	γὰρ	γάρ	source-pos:C-	c756	has-proposal
+q760	760	1Ti.4.5.w6	καὶ	καί	source-pos:C-	c760	has-proposal
+q776	776	1Ti.4.6.w15	καὶ	καί	source-pos:C-	c776	has-proposal
+q783	783	1Ti.4.7.w2	δὲ	δέ	source-pos:C-	c783	has-proposal
+q785	785	1Ti.4.7.w4	καὶ	καί	source-pos:C-	c785	has-proposal
+q790	790	1Ti.4.7.w9	δὲ	δέ	source-pos:C-	c790	has-proposal
+q795	795	1Ti.4.8.w2	γὰρ	γάρ	source-pos:C-	c795	has-proposal
+q803	803	1Ti.4.8.w10	δὲ	δέ	source-pos:C-	c803	has-proposal
+q813	813	1Ti.4.8.w20	νῦν	νῦν	source-pos:D-		unresolved
+q814	814	1Ti.4.8.w21	καὶ	καί	source-pos:C-	c814	has-proposal
+q820	820	1Ti.4.9.w4	καὶ	καί	source-pos:C-	c820	has-proposal
+q826	826	1Ti.4.10.w3	⸀γὰρ	γάρ	source-pos:C-	c826a,c826b	has-proposal
+q828	828	1Ti.4.10.w5	καὶ	καί	source-pos:C-	c828	has-proposal
+q830	830	1Ti.4.10.w7	ὅτι	ὅτι	source-pos:C-	c830	has-proposal
+q840	840	1Ti.4.10.w17	μάλιστα	μάλιστα	source-pos:D-		unresolved
+q844	844	1Ti.4.11.w3	καὶ	καί	source-pos:C-	c844	has-proposal
+q851	851	1Ti.4.12.w6	ἀλλὰ	ἀλλά	source-pos:C-	c851	has-proposal
+q866	866	1Ti.4.13.w1	ἕως	ἕως	source-pos:C-	c866	has-proposal
+q875	875	1Ti.4.14.w1	μὴ	μή	source-pos:D-		unresolved
+q897	897	1Ti.4.15.w6	ἵνα	ἵνα	source-pos:C-	c897	has-proposal
+q906	906	1Ti.4.16.w3	καὶ	καί	source-pos:C-	c906	has-proposal
+q912	912	1Ti.4.16.w9	γὰρ	γάρ	source-pos:C-	c912	has-proposal
+q914	914	1Ti.4.16.w11	καὶ	καί	source-pos:C-	c914	has-proposal
+q917	917	1Ti.4.16.w14	καὶ	καί	source-pos:C-	c914	has-proposal
+q922	922	1Ti.5.1.w2	μὴ	μή	source-pos:D-		unresolved
+q924	924	1Ti.5.1.w4	ἀλλὰ	ἀλλά	source-pos:C-	c924	has-proposal
+q926	926	1Ti.5.1.w6	ὡς	ὡς	source-pos:C-	c926	has-proposal
+q929	929	1Ti.5.1.w9	ὡς	ὡς	source-pos:C-	c929	has-proposal
+q932	932	1Ti.5.2.w2	ὡς	ὡς	source-pos:C-	c932	has-proposal
+q935	935	1Ti.5.2.w5	ὡς	ὡς	source-pos:C-	c935	has-proposal
+q943	943	1Ti.5.3.w4	ὄντως	ὄντως	source-pos:D-		unresolved
+q945	945	1Ti.5.4.w1	εἰ	εἰ	source-pos:C-	c945	has-proposal
+q946	946	1Ti.5.4.w2	δέ	δέ	source-pos:C-	c946	has-proposal
+q950	950	1Ti.5.4.w6	ἢ	ἤ	source-pos:C-	c950	has-proposal
+q954	954	1Ti.5.4.w10	πρῶτον	πρῶτον	source-pos:D-		unresolved
+q959	959	1Ti.5.4.w15	καὶ	καί	source-pos:C-	c959	has-proposal
+q965	965	1Ti.5.4.w21	γάρ	γάρ	source-pos:C-	c965	has-proposal
+q972	972	1Ti.5.5.w2	δὲ	δέ	source-pos:C-	c972	has-proposal
+q973	973	1Ti.5.5.w3	ὄντως	ὄντως	source-pos:D-		unresolved
+q975	975	1Ti.5.5.w5	καὶ	καί	source-pos:C-	c975	has-proposal
+q980	980	1Ti.5.5.w10	καὶ	καί	source-pos:C-	c980	has-proposal
+q984	984	1Ti.5.5.w14	καὶ	καί	source-pos:C-	c984	has-proposal
+q988	988	1Ti.5.5.w18	καὶ	καί	source-pos:C-	c988	has-proposal
+q991	991	1Ti.5.6.w2	δὲ	δέ	source-pos:C-	c991	has-proposal
+q995	995	1Ti.5.7.w1	καὶ	καί	source-pos:D-	c995	has-proposal
+q998	998	1Ti.5.7.w4	ἵνα	ἵνα	source-pos:C-	c998	has-proposal
+q1001	1001	1Ti.5.8.w1	εἰ	εἰ	source-pos:C-	c1001	has-proposal
+q1002	1002	1Ti.5.8.w2	δέ	δέ	source-pos:C-	c1002	has-proposal
+q1006	1006	1Ti.5.8.w6	καὶ	καί	source-pos:C-	c1006	has-proposal
+q1007	1007	1Ti.5.8.w7	⸀μάλιστα	μάλιστα	source-pos:D-		unresolved
+q1009	1009	1Ti.5.8.w9	οὐ	οὐ	source-pos:D-		unresolved
+q1014	1014	1Ti.5.8.w14	καὶ	καί	source-pos:C-	c1014	has-proposal
+q1020	1020	1Ti.5.9.w3	μὴ	μή	source-pos:D-		unresolved
+q1032	1032	1Ti.5.10.w5	εἰ	εἰ	source-pos:C-	c1032	has-proposal
+q1034	1034	1Ti.5.10.w7	εἰ	εἰ	source-pos:C-	c1034	has-proposal
+q1036	1036	1Ti.5.10.w9	εἰ	εἰ	source-pos:C-	c1036	has-proposal
+q1040	1040	1Ti.5.10.w13	εἰ	εἰ	source-pos:C-	c1040	has-proposal
+q1043	1043	1Ti.5.10.w16	εἰ	εἰ	source-pos:C-	c1043	has-proposal
+q1049	1049	1Ti.5.11.w2	δὲ	δέ	source-pos:C-	c1049	has-proposal
+q1052	1052	1Ti.5.11.w5	ὅταν	ὅταν	source-pos:C-	c1052	has-proposal
+q1053	1053	1Ti.5.11.w6	γὰρ	γάρ	source-pos:C-	c1053	has-proposal
+q1061	1061	1Ti.5.12.w3	ὅτι	ὅτι	source-pos:C-	c1061	has-proposal
+q1066	1066	1Ti.5.13.w1	ἅμα	ἅμα	source-pos:D-		unresolved
+q1067	1067	1Ti.5.13.w2	δὲ	δέ	source-pos:C-	c1067	has-proposal
+q1068	1068	1Ti.5.13.w3	καὶ	καί	source-pos:D-		unresolved
+q1074	1074	1Ti.5.13.w9	οὐ	οὐ	source-pos:D-	c1074	has-proposal
+q1076	1076	1Ti.5.13.w11	δὲ	δέ	source-pos:C-	c1076	has-proposal
+q1078	1078	1Ti.5.13.w13	ἀλλὰ	ἀλλά	source-pos:C-	c1074	has-proposal
+q1079	1079	1Ti.5.13.w14	καὶ	καί	source-pos:D-	c1074	has-proposal
+q1081	1081	1Ti.5.13.w16	καὶ	καί	source-pos:C-	c1081	has-proposal
+q1085	1085	1Ti.5.13.w20	μὴ	μή	source-pos:D-		unresolved
+q1088	1088	1Ti.5.14.w2	οὖν	οὖν	source-pos:C-	c1088	has-proposal
+q1100	1100	1Ti.5.15.w1	ἤδη	ἤδη	source-pos:D-		unresolved
+q1101	1101	1Ti.5.15.w2	γάρ	γάρ	source-pos:C-	c1101	has-proposal
+q1107	1107	1Ti.5.16.w1	εἴ	εἰ	source-pos:C-	c1107	has-proposal
+q1114	1114	1Ti.5.16.w8	καὶ	καί	source-pos:C-	c1114	has-proposal
+q1115	1115	1Ti.5.16.w9	μὴ	μή	source-pos:D-		unresolved
+q1119	1119	1Ti.5.16.w13	ἵνα	ἵνα	source-pos:C-	c1119	has-proposal
+q1121	1121	1Ti.5.16.w15	ὄντως	ὄντως	source-pos:D-		unresolved
+q1125	1125	1Ti.5.17.w2	καλῶς	καλῶς	source-pos:D-		unresolved
+q1131	1131	1Ti.5.17.w8	μάλιστα	μάλιστα	source-pos:D-		unresolved
+q1136	1136	1Ti.5.17.w13	καὶ	καί	source-pos:C-	c1136	has-proposal
+q1139	1139	1Ti.5.18.w2	γὰρ	γάρ	source-pos:C-	c1139	has-proposal
+q1144	1144	1Ti.5.18.w7	οὐ	οὐ	source-pos:D-		unresolved
+q1146	1146	1Ti.5.18.w9	καί·	καί	source-pos:C-	c1146	has-proposal
+q1156	1156	1Ti.5.19.w4	μὴ	μή	source-pos:D-		unresolved
+q1158	1158	1Ti.5.19.w6	ἐκτὸς	ἐκτός	source-pos:D-	c1158	has-proposal
+qx1158	1158-1160	1Ti.5.19.w6,1Ti.5.19.w7,1Ti.5.19.w8	ἐκτὸς εἰ μὴ	ἐκτός εἰ μή	expression:ἐκτός εἰ μή	c1158	has-proposal
+q1159	1159	1Ti.5.19.w7	εἰ	εἰ	source-pos:C-	c1158	has-proposal
+q1160	1160	1Ti.5.19.w8	μὴ	μή	source-pos:D-	c1158	has-proposal
+q1163	1163	1Ti.5.19.w11	ἢ	ἤ	source-pos:C-	c1163	has-proposal
+q1171	1171	1Ti.5.20.w6	ἵνα	ἵνα	source-pos:C-	c1171	has-proposal
+q1172	1172	1Ti.5.20.w7	καὶ	καί	source-pos:D-		unresolved
+q1181	1181	1Ti.5.21.w5	καὶ	καί	source-pos:C-	c1181	has-proposal
+q1184	1184	1Ti.5.21.w8	καὶ	καί	source-pos:C-	c1184	has-proposal
+q1188	1188	1Ti.5.21.w12	ἵνα	ἵνα	source-pos:C-	c1188	has-proposal
+q1198	1198	1Ti.5.22.w2	ταχέως	ταχέως	source-pos:D-		unresolved
+q1201	1201	1Ti.5.22.w5	μηδὲ	μηδέ	source-pos:C-	c1201	has-proposal
+q1208	1208	1Ti.5.23.w1	μηκέτι	μηκέτι	source-pos:D-		unresolved
+q1210	1210	1Ti.5.23.w3	ἀλλὰ	ἀλλά	source-pos:C-	c1210	has-proposal
+q1217	1217	1Ti.5.23.w10	καὶ	καί	source-pos:C-	c1217	has-proposal
+q1232	1232	1Ti.5.24.w11	δὲ	δέ	source-pos:C-	c1232	has-proposal
+q1233	1233	1Ti.5.24.w12	καὶ	καί	source-pos:D-		unresolved
+q1235	1235	1Ti.5.25.w1	ὡσαύτως	ὡσαύτως	source-pos:D-	c1235	has-proposal
+q1236	1236	1Ti.5.25.w2	καὶ	καί	source-pos:D-		unresolved
+q1242	1242	1Ti.5.25.w8	καὶ	καί	source-pos:C-	c1242	has-proposal
+q1244	1244	1Ti.5.25.w10	ἄλλως	ἄλλως	source-pos:D-		unresolved
+q1247	1247	1Ti.5.25.w13	οὐ	οὐ	source-pos:D-		unresolved
+q1261	1261	1Ti.6.1.w13	ἵνα	ἵνα	source-pos:C-	c1261	has-proposal
+q1262	1262	1Ti.6.1.w14	μὴ	μή	source-pos:D-		unresolved
+q1267	1267	1Ti.6.1.w19	καὶ	καί	source-pos:C-	c1267	has-proposal
+q1272	1272	1Ti.6.2.w2	δὲ	δέ	source-pos:C-	c1272	has-proposal
+q1276	1276	1Ti.6.2.w6	μὴ	μή	source-pos:D-		unresolved
+q1278	1278	1Ti.6.2.w8	ὅτι	ὅτι	source-pos:C-	c1278	has-proposal
+q1281	1281	1Ti.6.2.w11	ἀλλὰ	ἀλλά	source-pos:C-	c1281	has-proposal
+q1282	1282	1Ti.6.2.w12	μᾶλλον	μᾶλλον	source-pos:D-		unresolved
+q1284	1284	1Ti.6.2.w14	ὅτι	ὅτι	source-pos:C-	c1284	has-proposal
+q1287	1287	1Ti.6.2.w17	καὶ	καί	source-pos:C-	c1287	has-proposal
+q1295	1295	1Ti.6.2.w25	καὶ	καί	source-pos:C-	c1295	has-proposal
+q1297	1297	1Ti.6.3.w1	εἴ	εἰ	source-pos:C-	c1297	has-proposal
+q1300	1300	1Ti.6.3.w4	καὶ	καί	source-pos:C-	c1300	has-proposal
+q1301	1301	1Ti.6.3.w5	μὴ	μή	source-pos:D-		unresolved
+q1311	1311	1Ti.6.3.w15	καὶ	καί	source-pos:C-	c1311	has-proposal
+q1319	1319	1Ti.6.4.w4	ἀλλὰ	ἀλλά	source-pos:C-	c1319	has-proposal
+q1323	1323	1Ti.6.4.w8	καὶ	καί	source-pos:C-	c1323	has-proposal
+q1338	1338	1Ti.6.5.w6	καὶ	καί	source-pos:C-	c1338	has-proposal
+q1348	1348	1Ti.6.6.w2	δὲ	δέ	source-pos:C-	c1348	has-proposal
+q1356	1356	1Ti.6.7.w2	γὰρ	γάρ	source-pos:C-	c1356	has-proposal
+q1361	1361	1Ti.6.7.w7	⸀ὅτι	ὅτι	source-pos:C-		unresolved
+q1362	1362	1Ti.6.7.w8	οὐδὲ	οὐδέ	source-pos:D-		unresolved
+q1367	1367	1Ti.6.8.w2	δὲ	δέ	source-pos:C-	c1367	has-proposal
+q1369	1369	1Ti.6.8.w4	καὶ	καί	source-pos:C-	c1369	has-proposal
+q1374	1374	1Ti.6.9.w2	δὲ	δέ	source-pos:C-	c1374	has-proposal
+q1380	1380	1Ti.6.9.w8	καὶ	καί	source-pos:C-	c1380	has-proposal
+q1382	1382	1Ti.6.9.w10	καὶ	καί	source-pos:C-	c1382	has-proposal
+q1386	1386	1Ti.6.9.w14	καὶ	καί	source-pos:C-	c1386	has-proposal
+q1394	1394	1Ti.6.9.w22	καὶ	καί	source-pos:C-	c1394	has-proposal
+q1397	1397	1Ti.6.10.w2	γὰρ	γάρ	source-pos:C-	c1397	has-proposal
+q1411	1411	1Ti.6.10.w16	καὶ	καί	source-pos:C-	c1411	has-proposal
+q1417	1417	1Ti.6.11.w2	δέ,	δέ	source-pos:C-	c1417	has-proposal
+q1424	1424	1Ti.6.11.w9	δὲ	δέ	source-pos:C-	c1424	has-proposal
+q1444	1444	1Ti.6.12.w14	καὶ	καί	source-pos:C-	c1444	has-proposal
+q1461	1461	1Ti.6.13.w10	καὶ	καί	source-pos:C-	c1461	has-proposal
+q1492	1492	1Ti.6.15.w7	καὶ	καί	source-pos:C-	c1492	has-proposal
+q1499	1499	1Ti.6.15.w14	καὶ	καί	source-pos:C-	c1499	has-proposal
+q1514	1514	1Ti.6.16.w12	οὐδὲ	οὐδέ	source-pos:C-	c1514	has-proposal
+q1519	1519	1Ti.6.16.w17	καὶ	καί	source-pos:C-	c1519	has-proposal
+q1522	1522	1Ti.6.16.w20	ἀμήν.	ἀμήν	source-pos:X-		unresolved
+q1527	1527	1Ti.6.17.w5	νῦν	νῦν	source-pos:D-		unresolved
+q1530	1530	1Ti.6.17.w8	μὴ	μή	source-pos:D-		unresolved
+q1532	1532	1Ti.6.17.w10	μηδὲ	μηδέ	source-pos:C-	c1532	has-proposal
+q1537	1537	1Ti.6.17.w15	ἀλλ’	ἀλλά	source-pos:C-	c1537	has-proposal
+q1544	1544	1Ti.6.17.w22	πλουσίως	πλουσίως	source-pos:D-		unresolved
+q1562	1562	1Ti.6.19.w8	ἵνα	ἵνα	source-pos:C-	c1562	has-proposal
+q1565	1565	1Ti.6.19.w11	⸀ὄντως	ὄντως	source-pos:D-		unresolved
+q1567	1567	1Ti.6.20.w1	Ὦ	ὦ	source-pos:X-		unresolved
+q1576	1576	1Ti.6.20.w10	καὶ	καί	source-pos:C-	c1576	has-proposal

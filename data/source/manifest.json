@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/QuantForgeSoftware/sblgnt",
+  "revision": "aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d",
+  "path": "75-1Ti-morphgnt.txt",
+  "sha256": "b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97",
+  "book": "1Ti",
+  "retrievedOn": "2026-11-20",
+  "upstreamCitation": "Tauber, J. K., ed. (2017), MorphGNT: SBLGNT Edition, Version 6.12. DOI: 10.5281/zenodo.376200",
+  "textLicense": "https://github.com/Faithlife/SBLGNT/blob/master/LICENSE",
+  "morphologyLicense": "https://creativecommons.org/licenses/by-sa/3.0/"
+}

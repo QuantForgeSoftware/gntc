@@ -1,0 +1,30 @@
+name: Annotation proposal
+description: Propose or review a source-anchored grammatical/discourse analysis.
+title: "[annotation] 1Ti passage and marker"
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source revision and word references
+      placeholder: "aaed91e..., 1Ti.4.8.w2, word 795"
+    validations:
+      required: true
+  - type: textarea
+    id: analysis
+    attributes:
+      label: Proposed records and competing analyses
+      description: Give marker, context A, scope B, operation, relation, domain, and any alternative.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and uncertainty
+      description: Separate evidence for scope, processing instruction, contextual relation, and inferential effect. Cite sources.
+    validations:
+      required: true
+  - type: input
+    id: reviewer
+    attributes:
+      label: Responsibility and status
+      placeholder: "by=your-name status=proposed"

@@ -1,0 +1,1238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1 Timothy — SBLGNT / MorphGNT, GNTC research draft</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>GNTC/1 research edition. Text, morphology, annotations, and software have separate licenses; see repository NOTICE.md and source metadata.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>https://github.com/QuantForgeSoftware/sblgnt @ aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>GNTC/1 profile. Linguistic analyses retain their explicit review status. Word IDs address the pinned source. Feature structures and XML topology must agree.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="grc">
+    <body>
+      <ab xml:id="gntc_v762" n="1Ti.4.6">
+        <seg type="token" n="762">
+          <w xml:id="w762" n="1" ana="#gntc_t762" lemma="οὗτος" pos="RD" msd="----APN-">Ταῦτα</w>
+        </seg>
+        <seg type="token" n="763">
+          <w xml:id="w763" n="2" ana="#gntc_t763" lemma="ὑποτίθημι" pos="V-" msd="-PMPNSM-">ὑποτιθέμενος</w>
+        </seg>
+        <seg type="token" n="764">
+          <w xml:id="w764" n="3" ana="#gntc_t764" lemma="ὁ" pos="RA" msd="----DPM-">τοῖς</w>
+        </seg>
+        <seg type="token" n="765">
+          <w xml:id="w765" n="4" ana="#gntc_t765" lemma="ἀδελφός" pos="N-" msd="----DPM-">ἀδελφοῖς</w>
+        </seg>
+        <seg type="token" n="766">
+          <w xml:id="w766" n="5" ana="#gntc_t766" lemma="καλός" pos="A-" msd="----NSM-">καλὸς</w>
+        </seg>
+        <seg type="token" n="767">
+          <w xml:id="w767" n="6" ana="#gntc_t767" lemma="εἰμί" pos="V-" msd="2FMI-S--">ἔσῃ</w>
+        </seg>
+        <seg type="token" n="768">
+          <w xml:id="w768" n="7" ana="#gntc_t768" lemma="διάκονος" pos="N-" msd="----NSM-">διάκονος</w>
+        </seg>
+        <seg type="token" n="769">
+          <pc>⸂</pc>
+          <w xml:id="w769" n="8" ana="#gntc_t769" lemma="Χριστός" pos="N-" msd="----GSM-">Χριστοῦ</w>
+        </seg>
+        <seg type="token" n="770">
+          <w xml:id="w770" n="9" ana="#gntc_t770" lemma="Ἰησοῦς" pos="N-" msd="----GSM-">Ἰησοῦ</w>
+          <pc>⸃,</pc>
+        </seg>
+        <seg type="token" n="771">
+          <w xml:id="w771" n="10" ana="#gntc_t771" lemma="ἐντρέφομαι" pos="V-" msd="-PPPNSM-">ἐντρεφόμενος</w>
+        </seg>
+        <seg type="token" n="772">
+          <w xml:id="w772" n="11" ana="#gntc_t772" lemma="ὁ" pos="RA" msd="----DPM-">τοῖς</w>
+        </seg>
+        <seg type="token" n="773">
+          <w xml:id="w773" n="12" ana="#gntc_t773" lemma="λόγος" pos="N-" msd="----DPM-">λόγοις</w>
+        </seg>
+        <seg type="token" n="774">
+          <w xml:id="w774" n="13" ana="#gntc_t774" lemma="ὁ" pos="RA" msd="----GSF-">τῆς</w>
+        </seg>
+        <seg type="token" n="775">
+          <w xml:id="w775" n="14" ana="#gntc_t775" lemma="πίστις" pos="N-" msd="----GSF-">πίστεως</w>
+        </seg>
+        <seg type="token" n="776">
+          <w xml:id="w776" n="15" ana="#gntc_t776" lemma="καί" pos="C-" msd="--------">καὶ</w>
+        </seg>
+        <seg type="token" n="777">
+          <w xml:id="w777" n="16" ana="#gntc_t777" lemma="ὁ" pos="RA" msd="----GSF-">τῆς</w>
+        </seg>
+        <seg type="token" n="778">
+          <w xml:id="w778" n="17" ana="#gntc_t778" lemma="καλός" pos="A-" msd="----GSF-">καλῆς</w>
+        </seg>
+        <seg type="token" n="779">
+          <w xml:id="w779" n="18" ana="#gntc_t779" lemma="διδασκαλία" pos="N-" msd="----GSF-">διδασκαλίας</w>
+        </seg>
+        <seg type="token" n="780">
+          <w xml:id="w780" n="19" ana="#gntc_t780" lemma="ὅς" pos="RR" msd="----DSF-">ᾗ</w>
+        </seg>
+        <seg type="token" n="781">
+          <w xml:id="w781" n="20" ana="#gntc_t781" lemma="παρακολουθέω" pos="V-" msd="2XAI-S--">παρηκολούθηκας</w>
+          <pc>,</pc>
+        </seg>
+      </ab>
+      <ab xml:id="gntc_v782" n="1Ti.4.7">
+        <seg type="token" n="782">
+          <w xml:id="w782" n="1" ana="#gntc_t782" lemma="ὁ" pos="RA" msd="----APM-">τοὺς</w>
+        </seg>
+        <seg type="token" n="783">
+          <w xml:id="w783" n="2" ana="#gntc_t783" lemma="δέ" pos="C-" msd="--------">δὲ</w>
+        </seg>
+        <seg type="token" n="784">
+          <w xml:id="w784" n="3" ana="#gntc_t784" lemma="βέβηλος" pos="A-" msd="----APM-">βεβήλους</w>
+        </seg>
+        <seg type="token" n="785">
+          <w xml:id="w785" n="4" ana="#gntc_t785" lemma="καί" pos="C-" msd="--------">καὶ</w>
+        </seg>
+        <seg type="token" n="786">
+          <w xml:id="w786" n="5" ana="#gntc_t786" lemma="γραώδης" pos="A-" msd="----APM-">γραώδεις</w>
+        </seg>
+        <seg type="token" n="787">
+          <w xml:id="w787" n="6" ana="#gntc_t787" lemma="μῦθος" pos="N-" msd="----APM-">μύθους</w>
+        </seg>
+        <seg type="token" n="788">
+          <w xml:id="w788" n="7" ana="#gntc_t788" lemma="παραιτέομαι" pos="V-" msd="2PMD-S--">παραιτοῦ</w>
+          <pc>.</pc>
+        </seg>
+        <seg type="token" n="789">
+          <w xml:id="w789" n="8" ana="#gntc_t789" lemma="γυμνάζω" pos="V-" msd="2PAD-S--">γύμναζε</w>
+        </seg>
+        <seg type="token" n="790">
+          <w xml:id="w790" n="9" ana="#gntc_t790" lemma="δέ" pos="C-" msd="--------">δὲ</w>
+        </seg>
+        <seg type="token" n="791">
+          <w xml:id="w791" n="10" ana="#gntc_t791" lemma="σεαυτοῦ" pos="RP" msd="----ASM-">σεαυτὸν</w>
+        </seg>
+        <seg type="token" n="792">
+          <w xml:id="w792" n="11" ana="#gntc_t792" lemma="πρός" pos="P-" msd="--------">πρὸς</w>
+        </seg>
+        <seg type="token" n="793">
+          <w xml:id="w793" n="12" ana="#gntc_t793" lemma="εὐσέβεια" pos="N-" msd="----ASF-">εὐσέβειαν</w>
+          <pc>·</pc>
+        </seg>
+      </ab>
+      <ab xml:id="gntc_v794" n="1Ti.4.8">
+        <seg type="token" n="794">
+          <w xml:id="w794" n="1" ana="#gntc_t794" lemma="ὁ" pos="RA" msd="----NSF-">ἡ</w>
+        </seg>
+        <seg type="token" n="795">
+          <w xml:id="w795" n="2" ana="#gntc_t795" lemma="γάρ" pos="C-" msd="--------">γὰρ</w>
+        </seg>
+        <seg type="token" n="796">
+          <w xml:id="w796" n="3" ana="#gntc_t796" lemma="σωματικός" pos="A-" msd="----NSF-">σωματικὴ</w>
+        </seg>
+        <seg type="token" n="797">
+          <w xml:id="w797" n="4" ana="#gntc_t797" lemma="γυμνασία" pos="N-" msd="----NSF-">γυμνασία</w>
+        </seg>
+        <seg type="token" n="798">
+          <w xml:id="w798" n="5" ana="#gntc_t798" lemma="πρός" pos="P-" msd="--------">πρὸς</w>
+        </seg>
+        <seg type="token" n="799">
+          <w xml:id="w799" n="6" ana="#gntc_t799" lemma="ὀλίγος" pos="A-" msd="----ASM-">ὀλίγον</w>
+        </seg>
+        <seg type="token" n="800">
+          <w xml:id="w800" n="7" ana="#gntc_t800" lemma="εἰμί" pos="V-" msd="3PAI-S--">ἐστὶν</w>
+        </seg>
+        <seg type="token" n="801">
+          <w xml:id="w801" n="8" ana="#gntc_t801" lemma="ὠφέλιμος" pos="A-" msd="----NSF-">ὠφέλιμος</w>
+          <pc>,</pc>
+        </seg>
+        <seg type="token" n="802">
+          <w xml:id="w802" n="9" ana="#gntc_t802" lemma="ὁ" pos="RA" msd="----NSF-">ἡ</w>
+        </seg>
+        <seg type="token" n="803">
+          <w xml:id="w803" n="10" ana="#gntc_t803" lemma="δέ" pos="C-" msd="--------">δὲ</w>
+        </seg>
+        <seg type="token" n="804">
+          <w xml:id="w804" n="11" ana="#gntc_t804" lemma="εὐσέβεια" pos="N-" msd="----NSF-">εὐσέβεια</w>
+        </seg>
+        <seg type="token" n="805">
+          <w xml:id="w805" n="12" ana="#gntc_t805" lemma="πρός" pos="P-" msd="--------">πρὸς</w>
+        </seg>
+        <seg type="token" n="806">
+          <w xml:id="w806" n="13" ana="#gntc_t806" lemma="πᾶς" pos="A-" msd="----APN-">πάντα</w>
+        </seg>
+        <seg type="token" n="807">
+          <w xml:id="w807" n="14" ana="#gntc_t807" lemma="ὠφέλιμος" pos="A-" msd="----NSF-">ὠφέλιμός</w>
+        </seg>
+        <seg type="token" n="808">
+          <w xml:id="w808" n="15" ana="#gntc_t808" lemma="εἰμί" pos="V-" msd="3PAI-S--">ἐστιν</w>
+          <pc>,</pc>
+        </seg>
+        <seg type="token" n="809">
+          <w xml:id="w809" n="16" ana="#gntc_t809" lemma="ἐπαγγελία" pos="N-" msd="----ASF-">ἐπαγγελίαν</w>
+        </seg>
+        <seg type="token" n="810">
+          <w xml:id="w810" n="17" ana="#gntc_t810" lemma="ἔχω" pos="V-" msd="-PAPNSF-">ἔχουσα</w>
+        </seg>
+        <seg type="token" n="811">
+          <w xml:id="w811" n="18" ana="#gntc_t811" lemma="ζωή" pos="N-" msd="----GSF-">ζωῆς</w>
+        </seg>
+        <seg type="token" n="812">
+          <w xml:id="w812" n="19" ana="#gntc_t812" lemma="ὁ" pos="RA" msd="----GSF-">τῆς</w>
+        </seg>
+        <seg type="token" n="813">
+          <w xml:id="w813" n="20" ana="#gntc_t813" lemma="νῦν" pos="D-" msd="--------">νῦν</w>
+        </seg>
+        <seg type="token" n="814">
+          <w xml:id="w814" n="21" ana="#gntc_t814" lemma="καί" pos="C-" msd="--------">καὶ</w>
+        </seg>
+        <seg type="token" n="815">
+          <w xml:id="w815" n="22" ana="#gntc_t815" lemma="ὁ" pos="RA" msd="----GSF-">τῆς</w>
+        </seg>
+        <seg type="token" n="816">
+          <w xml:id="w816" n="23" ana="#gntc_t816" lemma="μέλλω" pos="V-" msd="-PAPGSF-">μελλούσης</w>
+          <pc>.</pc>
+        </seg>
+      </ab>
+    </body>
+  </text>
+  <standOff type="gntc">
+    <fs xml:id="gntc_metadata" type="gntc-metadata">
+      <f name="agent.codex">
+        <string>AI-assisted research draft, 2026-11-20; no specialist review</string>
+      </f>
+      <f name="analysisCoverage">
+        <string>partial</string>
+      </f>
+      <f name="annotationLicense">
+        <string>CC-BY-SA-3.0</string>
+      </f>
+      <f name="book">
+        <string>1Ti</string>
+      </f>
+      <f name="candidateCoverage">
+        <string>complete-for-policy</string>
+      </f>
+      <f name="candidatePolicy">
+        <string>all-C-D-X-plus-dia-touto-and-ektos-ei-me-v1</string>
+      </f>
+      <f name="default.by">
+        <string>codex</string>
+      </f>
+      <f name="default.status">
+        <string>proposed</string>
+      </f>
+      <f name="extraction">
+        <string>marker-seeded-dependency-closure-v1</string>
+      </f>
+      <f name="morphologyCoverage">
+        <string>full</string>
+      </f>
+      <f name="morphologyLicense">
+        <string>CC-BY-SA-3.0</string>
+      </f>
+      <f name="profile">
+        <string>gntc-connectives-1</string>
+      </f>
+      <f name="requestedVerses">
+        <string>1Ti.4.7,1Ti.4.8</string>
+      </f>
+      <f name="source.levinsohn-1tim">
+        <string>https://scholars.sil.org/sites/scholars/files/stephen_h_levinsohn/discourse/1timcomments.pdf</string>
+      </f>
+      <f name="sourcePath">
+        <string>75-1Ti-morphgnt.txt</string>
+      </f>
+      <f name="sourceRepository">
+        <string>https://github.com/QuantForgeSoftware/sblgnt</string>
+      </f>
+      <f name="sourceRevision">
+        <string>aaed91e57c8e4a8dc9a2383e129ca5e75fe6393d</string>
+      </f>
+      <f name="sourceSha256">
+        <string>b4a6a446d163b8b651ba11119bbc211b4e14cb12871b48df175adb88d4f9db97</string>
+      </f>
+      <f name="textCoverage">
+        <string>excerpt</string>
+      </f>
+      <f name="textLicense">
+        <string>CC-BY-4.0</string>
+      </f>
+      <f name="title">
+        <string>1 Timothy — SBLGNT / MorphGNT, GNTC research draft</string>
+      </f>
+      <f name="tokenization">
+        <string>morphgnt-row-v1</string>
+      </f>
+    </fs>
+    <interp xml:id="gntc_unknown" type="unresolved">Unknown annotation value; not an empty text span.</interp>
+    <fs xml:id="gntc_t762" type="gntc-token">
+      <f name="normalized">
+        <string>ταῦτα</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t763" type="gntc-token">
+      <f name="normalized">
+        <string>ὑποτιθέμενος</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t764" type="gntc-token">
+      <f name="normalized">
+        <string>τοῖς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t765" type="gntc-token">
+      <f name="normalized">
+        <string>ἀδελφοῖς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t766" type="gntc-token">
+      <f name="normalized">
+        <string>καλός</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t767" type="gntc-token">
+      <f name="normalized">
+        <string>ἔσῃ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t768" type="gntc-token">
+      <f name="normalized">
+        <string>διάκονος</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t769" type="gntc-token">
+      <f name="normalized">
+        <string>Χριστοῦ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t770" type="gntc-token">
+      <f name="normalized">
+        <string>Ἰησοῦ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t771" type="gntc-token">
+      <f name="normalized">
+        <string>ἐντρεφόμενος</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t772" type="gntc-token">
+      <f name="normalized">
+        <string>τοῖς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t773" type="gntc-token">
+      <f name="normalized">
+        <string>λόγοις</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t774" type="gntc-token">
+      <f name="normalized">
+        <string>τῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t775" type="gntc-token">
+      <f name="normalized">
+        <string>πίστεως</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t776" type="gntc-token">
+      <f name="normalized">
+        <string>καί</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t777" type="gntc-token">
+      <f name="normalized">
+        <string>τῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t778" type="gntc-token">
+      <f name="normalized">
+        <string>καλῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t779" type="gntc-token">
+      <f name="normalized">
+        <string>διδασκαλίας</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t780" type="gntc-token">
+      <f name="normalized">
+        <string>ᾗ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t781" type="gntc-token">
+      <f name="normalized">
+        <string>παρηκολούθηκας</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150406</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t782" type="gntc-token">
+      <f name="normalized">
+        <string>τούς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t783" type="gntc-token">
+      <f name="normalized">
+        <string>δέ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t784" type="gntc-token">
+      <f name="normalized">
+        <string>βεβήλους</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t785" type="gntc-token">
+      <f name="normalized">
+        <string>καί</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t786" type="gntc-token">
+      <f name="normalized">
+        <string>γραώδεις</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t787" type="gntc-token">
+      <f name="normalized">
+        <string>μύθους</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t788" type="gntc-token">
+      <f name="normalized">
+        <string>παραιτοῦ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t789" type="gntc-token">
+      <f name="normalized">
+        <string>γύμναζε</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t790" type="gntc-token">
+      <f name="normalized">
+        <string>δέ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t791" type="gntc-token">
+      <f name="normalized">
+        <string>σεαυτόν</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t792" type="gntc-token">
+      <f name="normalized">
+        <string>πρός</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t793" type="gntc-token">
+      <f name="normalized">
+        <string>εὐσέβειαν</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150407</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t794" type="gntc-token">
+      <f name="normalized">
+        <string>ἡ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t795" type="gntc-token">
+      <f name="normalized">
+        <string>γάρ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t796" type="gntc-token">
+      <f name="normalized">
+        <string>σωματική</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t797" type="gntc-token">
+      <f name="normalized">
+        <string>γυμνασία</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t798" type="gntc-token">
+      <f name="normalized">
+        <string>πρός</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t799" type="gntc-token">
+      <f name="normalized">
+        <string>ὀλίγον</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t800" type="gntc-token">
+      <f name="normalized">
+        <string>ἐστί(ν)</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t801" type="gntc-token">
+      <f name="normalized">
+        <string>ὠφέλιμος</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t802" type="gntc-token">
+      <f name="normalized">
+        <string>ἡ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t803" type="gntc-token">
+      <f name="normalized">
+        <string>δέ</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t804" type="gntc-token">
+      <f name="normalized">
+        <string>εὐσέβεια</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t805" type="gntc-token">
+      <f name="normalized">
+        <string>πρός</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t806" type="gntc-token">
+      <f name="normalized">
+        <string>πάντα</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t807" type="gntc-token">
+      <f name="normalized">
+        <string>ὠφέλιμος</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t808" type="gntc-token">
+      <f name="normalized">
+        <string>ἐστί(ν)</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t809" type="gntc-token">
+      <f name="normalized">
+        <string>ἐπαγγελίαν</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t810" type="gntc-token">
+      <f name="normalized">
+        <string>ἔχουσα</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t811" type="gntc-token">
+      <f name="normalized">
+        <string>ζωῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t812" type="gntc-token">
+      <f name="normalized">
+        <string>τῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t813" type="gntc-token">
+      <f name="normalized">
+        <string>νῦν</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t814" type="gntc-token">
+      <f name="normalized">
+        <string>καί</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t815" type="gntc-token">
+      <f name="normalized">
+        <string>τῆς</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_t816" type="gntc-token">
+      <f name="normalized">
+        <string>μελλούσης</string>
+      </f>
+      <f name="sourceBcv">
+        <string>150408</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_u762_781" type="gntc-annotation">
+      <f name="extent">
+        <string>762-781</string>
+      </f>
+      <f name="id">
+        <string>u762_781</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>discourse</string>
+      </f>
+    </fs>
+    <span xml:id="u762_781" type="discourse" from="#w762" to="#w781" ana="#gntc_a_u762_781" />
+    <fs xml:id="gntc_a_u782_788" type="gntc-annotation">
+      <f name="extent">
+        <string>782-788</string>
+      </f>
+      <f name="id">
+        <string>u782_788</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>clause</string>
+      </f>
+    </fs>
+    <span xml:id="u782_788" type="clause" from="#w782" to="#w788" ana="#gntc_a_u782_788" />
+    <fs xml:id="gntc_a_u784" type="gntc-annotation">
+      <f name="extent">
+        <string>784</string>
+      </f>
+      <f name="id">
+        <string>u784</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>word</string>
+      </f>
+    </fs>
+    <span xml:id="u784" type="word" from="#w784" to="#w784" ana="#gntc_a_u784" />
+    <fs xml:id="gntc_a_u786" type="gntc-annotation">
+      <f name="extent">
+        <string>786</string>
+      </f>
+      <f name="id">
+        <string>u786</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>word</string>
+      </f>
+    </fs>
+    <span xml:id="u786" type="word" from="#w786" to="#w786" ana="#gntc_a_u786" />
+    <fs xml:id="gntc_a_u789_793" type="gntc-annotation">
+      <f name="extent">
+        <string>789-793</string>
+      </f>
+      <f name="id">
+        <string>u789_793</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>clause</string>
+      </f>
+    </fs>
+    <span xml:id="u789_793" type="clause" from="#w789" to="#w793" ana="#gntc_a_u789_793" />
+    <fs xml:id="gntc_a_u789_816" type="gntc-annotation">
+      <f name="extent">
+        <string>789-816</string>
+      </f>
+      <f name="id">
+        <string>u789_816</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>discourse</string>
+      </f>
+    </fs>
+    <span xml:id="u789_816" type="discourse" from="#w789" to="#w816" ana="#gntc_a_u789_816" />
+    <fs xml:id="gntc_a_u794_801" type="gntc-annotation">
+      <f name="extent">
+        <string>794-801</string>
+      </f>
+      <f name="id">
+        <string>u794_801</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>clause</string>
+      </f>
+    </fs>
+    <span xml:id="u794_801" type="clause" from="#w794" to="#w801" ana="#gntc_a_u794_801" />
+    <fs xml:id="gntc_a_u794_816" type="gntc-annotation">
+      <f name="extent">
+        <string>794-816</string>
+      </f>
+      <f name="id">
+        <string>u794_816</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>discourse</string>
+      </f>
+    </fs>
+    <span xml:id="u794_816" type="discourse" from="#w794" to="#w816" ana="#gntc_a_u794_816" />
+    <fs xml:id="gntc_a_u802_816" type="gntc-annotation">
+      <f name="extent">
+        <string>802-816</string>
+      </f>
+      <f name="id">
+        <string>u802_816</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>complex</string>
+      </f>
+    </fs>
+    <span xml:id="u802_816" type="complex" from="#w802" to="#w816" ana="#gntc_a_u802_816" />
+    <fs xml:id="gntc_a_u812_813" type="gntc-annotation">
+      <f name="extent">
+        <string>812-813</string>
+      </f>
+      <f name="id">
+        <string>u812_813</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>phrase</string>
+      </f>
+    </fs>
+    <span xml:id="u812_813" type="phrase" from="#w812" to="#w813" ana="#gntc_a_u812_813" />
+    <fs xml:id="gntc_a_u815_816" type="gntc-annotation">
+      <f name="extent">
+        <string>815-816</string>
+      </f>
+      <f name="id">
+        <string>u815_816</string>
+      </f>
+      <f name="record">
+        <string>U</string>
+      </f>
+      <f name="unitKind">
+        <string>phrase</string>
+      </f>
+    </fs>
+    <span xml:id="u815_816" type="phrase" from="#w815" to="#w816" ana="#gntc_a_u815_816" />
+    <fs xml:id="gntc_a_q783" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q783</string>
+      </f>
+      <f name="marker">
+        <string>783</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q783" type="candidate" from="#w783" to="#w783" ana="#gntc_a_q783" />
+    <fs xml:id="gntc_a_q785" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q785</string>
+      </f>
+      <f name="marker">
+        <string>785</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q785" type="candidate" from="#w785" to="#w785" ana="#gntc_a_q785" />
+    <fs xml:id="gntc_a_q790" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q790</string>
+      </f>
+      <f name="marker">
+        <string>790</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q790" type="candidate" from="#w790" to="#w790" ana="#gntc_a_q790" />
+    <fs xml:id="gntc_a_q795" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q795</string>
+      </f>
+      <f name="marker">
+        <string>795</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q795" type="candidate" from="#w795" to="#w795" ana="#gntc_a_q795" />
+    <fs xml:id="gntc_a_q803" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q803</string>
+      </f>
+      <f name="marker">
+        <string>803</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q803" type="candidate" from="#w803" to="#w803" ana="#gntc_a_q803" />
+    <fs xml:id="gntc_a_q813" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:D-</string>
+      </f>
+      <f name="id">
+        <string>q813</string>
+      </f>
+      <f name="marker">
+        <string>813</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q813" type="candidate" from="#w813" to="#w813" ana="#gntc_a_q813" />
+    <fs xml:id="gntc_a_q814" type="gntc-annotation">
+      <f name="attr.by">
+        <string>candidate-scan-v1</string>
+      </f>
+      <f name="attr.status">
+        <string>candidate</string>
+      </f>
+      <f name="evidence">
+        <string>source-pos:C-</string>
+      </f>
+      <f name="id">
+        <string>q814</string>
+      </f>
+      <f name="marker">
+        <string>814</string>
+      </f>
+      <f name="record">
+        <string>Q</string>
+      </f>
+    </fs>
+    <span xml:id="q814" type="candidate" from="#w814" to="#w814" ana="#gntc_a_q814" />
+    <fs xml:id="gntc_a_c783" type="gntc-annotation">
+      <f name="context">
+        <string>u762_781</string>
+      </f>
+      <f name="domain">
+        <string>act</string>
+      </f>
+      <f name="id">
+        <string>c783</string>
+      </f>
+      <f name="marker">
+        <string>783</string>
+      </f>
+      <f name="operation">
+        <string>develop</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>contrast</string>
+      </f>
+      <f name="scope">
+        <string>u782_788</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_c785" type="gntc-annotation">
+      <f name="context">
+        <string>u784</string>
+      </f>
+      <f name="domain">
+        <string>content</string>
+      </f>
+      <f name="id">
+        <string>c785</string>
+      </f>
+      <f name="marker">
+        <string>785</string>
+      </f>
+      <f name="operation">
+        <string>associate</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>addition</string>
+      </f>
+      <f name="scope">
+        <string>u786</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_c790" type="gntc-annotation">
+      <f name="context">
+        <string>u782_788</string>
+      </f>
+      <f name="domain">
+        <string>act</string>
+      </f>
+      <f name="id">
+        <string>c790</string>
+      </f>
+      <f name="marker">
+        <string>790</string>
+      </f>
+      <f name="operation">
+        <string>develop</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>contrast</string>
+      </f>
+      <f name="scope">
+        <string>u789_793</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_c795" type="gntc-annotation">
+      <f name="attr.note">
+        <string>Gar scopes over both main clauses of verse 8, including the dependent participial material.</string>
+      </f>
+      <f name="attr.src">
+        <string>levinsohn-1tim</string>
+      </f>
+      <f name="context">
+        <string>u789_793</string>
+      </f>
+      <f name="domain">
+        <string>act</string>
+      </f>
+      <f name="id">
+        <string>c795</string>
+      </f>
+      <f name="marker">
+        <string>795</string>
+      </f>
+      <f name="operation">
+        <string>support</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>ground</string>
+      </f>
+      <f name="scope">
+        <string>u794_816</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_c803" type="gntc-annotation">
+      <f name="attr.note">
+        <string>Development is distinguished from the contextual contrast in usefulness.</string>
+      </f>
+      <f name="attr.src">
+        <string>levinsohn-1tim</string>
+      </f>
+      <f name="context">
+        <string>u794_801</string>
+      </f>
+      <f name="domain">
+        <string>content</string>
+      </f>
+      <f name="id">
+        <string>c803</string>
+      </f>
+      <f name="marker">
+        <string>803</string>
+      </f>
+      <f name="operation">
+        <string>develop</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>contrast</string>
+      </f>
+      <f name="scope">
+        <string>u802_816</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_c814" type="gntc-annotation">
+      <f name="context">
+        <string>u812_813</string>
+      </f>
+      <f name="domain">
+        <string>content</string>
+      </f>
+      <f name="id">
+        <string>c814</string>
+      </f>
+      <f name="marker">
+        <string>814</string>
+      </f>
+      <f name="operation">
+        <string>associate</string>
+      </f>
+      <f name="record">
+        <string>C</string>
+      </f>
+      <f name="relation">
+        <string>addition</string>
+      </f>
+      <f name="scope">
+        <string>u815_816</string>
+      </f>
+    </fs>
+    <fs xml:id="gntc_a_i795" type="gntc-annotation">
+      <f name="attr.force">
+        <string>defeasible</string>
+      </f>
+      <f name="connection">
+        <string>c795</string>
+      </f>
+      <f name="effect">
+        <string>The benefits of godliness described in both main clauses provide motivation for obeying the training exhortation.</string>
+      </f>
+      <f name="id">
+        <string>i795</string>
+      </f>
+      <f name="record">
+        <string>I</string>
+      </f>
+    </fs>
+    <interp xml:id="i795" type="effect" corresp="#c795" ana="#gntc_a_i795">The benefits of godliness described in both main clauses provide motivation for obeying the training exhortation.</interp>
+    <fs xml:id="gntc_a_i803" type="gntc-annotation">
+      <f name="attr.force">
+        <string>defeasible</string>
+      </f>
+      <f name="connection">
+        <string>c803</string>
+      </f>
+      <f name="effect">
+        <string>The comparison directs attention from limited bodily benefit to the wider benefit of godliness; contrast is contextual rather than a mandatory translation of de.</string>
+      </f>
+      <f name="id">
+        <string>i803</string>
+      </f>
+      <f name="record">
+        <string>I</string>
+      </f>
+    </fs>
+    <interp xml:id="i803" type="effect" corresp="#c803" ana="#gntc_a_i803">The comparison directs attention from limited bodily benefit to the wider benefit of godliness; contrast is contextual rather than a mandatory translation of de.</interp>
+    <linkGrp type="connective" targFunc="marker context scope">
+      <link xml:id="c783" target="#w783 #u762_781 #u782_788" ana="#gntc_a_c783" />
+      <link xml:id="c785" target="#w785 #u784 #u786" ana="#gntc_a_c785" />
+      <link xml:id="c790" target="#w790 #u782_788 #u789_793" ana="#gntc_a_c790" />
+      <link xml:id="c795" target="#w795 #u789_793 #u794_816" ana="#gntc_a_c795" />
+      <link xml:id="c803" target="#w803 #u794_801 #u802_816" ana="#gntc_a_c803" />
+      <link xml:id="c814" target="#w814 #u812_813 #u815_816" ana="#gntc_a_c814" />
+    </linkGrp>
+  </standOff>
+</TEI>
